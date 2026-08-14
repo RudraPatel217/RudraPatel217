@@ -9,9 +9,6 @@
   <a href="https://github.com/RudraPatel217">
     <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Web%20Dev-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
   </a>
-  <a href="https://github.com/RudraPatel217?tab=repositories">
-    <img src="https://img.shields.io/github/stars/RudraPatel217?style=for-the-badge&color=gold" alt="GitHub Stars" />
-  </a>
 </p>
 
 <p align="center">
@@ -20,25 +17,24 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 ```yaml
 Patel Rudra:
-  Role: Student & Software Developer
   University: Adani University 🎓
-  Core Focus: AI Agents, Web Intelligence, Glassmorphic Dashboards & Security Scanners
-  Current Exploration: Generative AI (Google Gemini API), Automated Web Auditing & Telemetry Systems
+  Core Focus: AI Agents, Web Intelligence & Security Scanners
+  Current Exploration: Generative AI , Automated Web Auditing & Telemetry Systems
   Soft Skills: Problem Solving, Hackathon Collaboration, Rapid Prototyping
 ```
 
-- 🔭 **Currently Working On**: Intelligent AI-driven domain analysis and real-time safety dashboards.
-- 🌱 **Currently Learning**: Advanced AI Agent architectures, LLM orchestration, and modern cloud deployment.
-- 👯 **Open For Collaboration**: Innovative Web, AI, and Hackathon projects.
-- 💬 **Ask Me About**: Python, Flask, Streamlit, JavaScript, Web Scraping, and AI integrations!
+- **Currently Working On**: Intelligent AI-driven domain analysis and real-time safety dashboards.
+- **Currently Learning**: Advanced AI Agent architectures, LLM orchestration, and modern cloud deployment.
+- **Open For Collaboration**: Innovative Web, AI, and Hackathon projects.
+- **Ask Me About**: Python, Flask, Streamlit, JavaScript, Web Scraping, and AI integrations!
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table width="100%">
   <tr>
@@ -129,11 +125,6 @@ Patel Rudra:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RudraPatel217&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Patel Rudra's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraPatel217&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraPatel217&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
 
@@ -145,7 +136,7 @@ Patel Rudra:
   <a href="https://github.com/RudraPatel217">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/rudra-patel-217">
+  <a href="https://www.linkedin.com/in/rudra-patel-a05749389/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rudra.patel@adaniuni.ac.in">
